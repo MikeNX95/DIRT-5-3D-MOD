@@ -1,1 +1,17 @@
 # DIRT-5-3D-MOD
+
+---
+
+## 📦 Installation
+1. Download `Dirt5.zip`.
+2. Place `dinput8.dll` and `3D-6DOF config.ini` into your main game directory right next to `game.exe`.
+3. Launch the game and enjoy!
+
+### LeiaSR Display Users
+1. Copy `leiasr_shim.dll` into the game directory next to `game.exe`.
+2. Set your **Stereo Output** to `7`.
+
+---
+
+## ⚠️ Known Issues / Testing Notes
+* The crowd can look a bit blurry.
