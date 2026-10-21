@@ -10,6 +10,7 @@
 ### LeiaSR Display Users
 1. Copy `leiasr_shim.dll` into the game directory next to `game.exe`.
 2. Set your **Stereo Output** to `7`.
+3. Launch the game and enjoy!
 
 ---
 
